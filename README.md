@@ -1,6 +1,6 @@
 # 📦 Sistema de Gerenciamento de Usuários
 
-Este é um projeto de exemplo para manipulação de usuários em Python, com funcionalidades de criação, listagem, busca e exclusão, além de testes unitários usando `unittest`.
+Este é um projeto de exemplo para testes unitarios de manipulação de usuários em Python, com funcionalidades de criação, listagem, busca e exclusão, além de testes unitários usando `unittest`.
 
 ---
 
